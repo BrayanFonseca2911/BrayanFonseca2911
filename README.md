@@ -78,7 +78,7 @@
 
 ---
 
-## 💼 Proyectos Destacados (Haz clic para ver detalles y repositorio)
+## 💼 Proyectos Destacados (Portafolio)
 
 <details>
   <summary><b>🚀 Proyecto Spring Boot - Java 25 (Campuslands)</b>[cite: 1, 2]</summary>
@@ -88,21 +88,21 @@
     <p><b>🇺🇸 English:</b> A centralized web platform designed to optimize and formalize enterprise technical support. I developed the entire operational workflow, eliminating incident fragmentation through a finite-state machine, implementing strict SLA management based on priority levels, and incorporating comprehensive auditing and analytics dashboards to support data-driven decision-making based on key metrics[cite: 2].</p>
     <p>
       <a href="https://github.com/tu-usuario/nombre-repo-springboot" target="_blank">
-        <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=flat&logo=github&logoColor=white" alt="GitHub Repo"/>
+        <img src="https://img.shields.io/badge/📂_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
       </a>
     </p>
   </ul>
 </details>
 
 <details>
-  <summary><b>🤖 Proyecto n8n (Campuslands)</b>[cite: 1, 2]</summary>
+  <summary><b>🤖 Proyecto n8n – Reporte de Emergencias (Campuslands)</b>[cite: 1, 2]</summary>
   <br>
   <ul>
     <p><b>🇪🇸 Español:</b> Desarrollo de una página web donde el usuario puede hacer un reporte de una emergencia en la ciudad o barrio. Utilizamos un agente de IA que decide si el daño es critico, bajo, o puede ser un posible spam. También desarrollamos un chatbot por telegram donde envia todos los reportes realizados en la pagina web y el usuario tambien puede mirar los reportes que el ha hecho[cite: 1].</p>
     <p><b>🇺🇸 English:</b> We developed a website where users can report emergencies in their city or neighborhood. We utilized an AI agent to determine whether the reported issue is critical, minor, or potential spam. Additionally, we created a Telegram chatbot that relays all reports submitted via the website and allows users to view their own past reports[cite: 2].</p>
     <p>
       <a href="https://github.com/tu-usuario/nombre-repo-n8n" target="_blank">
-        <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=flat&logo=github&logoColor=white" alt="GitHub Repo"/>
+        <img src="https://img.shields.io/badge/📂_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
       </a>
     </p>
   </ul>
@@ -115,7 +115,7 @@
     <p><b>🇪🇸 Español:</b> Se trata de una base de datos relacional que administra usuarios y membresías, espacios y reservas (escritorios, oficinas, salas), pagos y facturación, control de acceso mediante RFID o QR, y define 5 roles de sistema. Incluye 100 consultas SQL, 20 triggers, 20 eventos programados y 20 procedimientos almacenados[cite: 1].</p>
     <p>
       <a href="https://github.com/tu-usuario/nombre-repo-mysql" target="_blank">
-        <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=flat&logo=github&logoColor=white" alt="GitHub Repo"/>
+        <img src="https://img.shields.io/badge/📂_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
       </a>
     </p>
   </ul>
@@ -128,7 +128,7 @@
     <p><b>🇺🇸 English:</b> I am developing a web-based activity platform that streamlines processes and improves work team coordination. CampusBuild is a solution designed to provide a customized application for managing projects across all stages of construction[cite: 2].</p>
     <p>
       <a href="https://github.com/tu-usuario/nombre-repo-html-css-js" target="_blank">
-        <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=flat&logo=github&logoColor=white" alt="GitHub Repo"/>
+        <img src="https://img.shields.io/badge/📂_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
       </a>
     </p>
   </ul>
@@ -148,9 +148,6 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,30&height=100§ion=footer" width="100%"/>
 </div>
