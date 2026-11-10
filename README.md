@@ -5,18 +5,52 @@
   <!-- Subtítulo con efecto de escritura simulada -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8¢er=true&vCenter=true&width=650&height=50&lines=Desarrollador+Junior+en+Formaci%C3%B3n+%F0%9F%9A%80;Junior+Developer+in+Training+%F0%9F%92%BB;Especialista+en+Tecnolog%C3%ADa+y+Software+%E2%9A%A1" alt="Typing SVG" />
 
-  <!-- Badges de Redes Sociales / Contacto -->
+  <!-- Contador de Visitas e Indicador de Estado -->
   <p>
-    <a href="https://www.linkedin.com/in/brayan-fonseca-2a63803aa/" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=tu-usuario&label=Visitas%20al%20Perfil&color=0ea5e9&style=flat-square" alt="Visitas" />
+    <img src="https://img.shields.io/badge/Estado-Disponible_para_proyectos-brightgreen?style=flat-square" alt="Estado" />
+  </p>
+
+  <!-- Badges de Redes Sociales, Contacto y Hoja de Vida -->
+  <p>
+    <a href="https://github.com/tu-usuario/tu-repositorio/blob/main/Brayan_Fonseca_CV.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/📄_Ver_CV_PDF-007ACC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV Badge"/>
+    </a>
+    <a href="https://linkedin.com/in/tu-usuario" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://github.com/BrayanFonseca2911" target="_blank">
+    <a href="https://github.com/tu-usuario" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
     </a>
-    <a href="https://mail.google.com">
+    <a href="mailto:tu-correo@ejemplo.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>
   </p>
+</div>
+
+<!-- LÍNEA DIVISORA NEÓN ANIMADA -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📄 Hoja de Vida / Curriculum Vitae
+
+<div align="center">
+  <table width="80%">
+    <tr>
+      <td align="center">
+        <h3>📄 Descarga o Consulta mi CV Completo</h3>
+        <p>Puedes revisar mi experiencia, formación académica y competencias profesionales directamente en formato PDF.</p>
+        <p>
+          <a href="https://github.com/tu-usuario/tu-repositorio/raw/main/Brayan_Fonseca_CV.pdf" target="_blank">
+            <img src="https://img.shields.io/badge/📥_DESCARGAR_CV-007ACC?style=for-the-badge&logo=pdf&logoColor=white" alt="Descargar CV"/>
+          </a>
+            
+          <a href="https://github.com/tu-usuario/tu-repositorio/blob/main/Brayan_Fonseca_CV.pdf" target="_blank">
+            <img src="https://img.shields.io/badge/👁️_VER_CV_ONLINE-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver CV"/>
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -38,30 +72,22 @@
 
 ---
 
-## 🛠️ Stack Tecnológico y Habilidades
+## 🛠️ Stack Tecnológico e Iconos Interactivos
 
 <div align="center">
 
-### 💻 Lenguajes y Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Pseint-005571?style=for-the-badge&logo=codeforces&logoColor=white" alt="Pseint"/>
-</p>
+<!-- Iconos de Tecnologías (Skill Icons animadas) -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,spring,py,js,html,css,postgres,mysql,linux,github,vscode,postman&perline=6" />
+</a>
 
-### 🗄️ Bases de Datos y Herramientas
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Scrum-660099?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum"/>
-</p>
+<br><br>
+
+| Categoría | Tecnologías & Herramientas |
+| :--- | :--- |
+| **Lenguajes & Backend** | Java (25), Spring Boot, Python, JavaScript, HTML5, CSS3, Pseint[cite: 1, 2] |
+| **Bases de Datos** | PostgreSQL, MySQL (Triggers, Eventos, Procedimientos Almacenados)[cite: 1, 2] |
+| **Automatización & Entornos** | n8n (Agentes de IA & Workflows), Linux, GitHub, Scrum[cite: 1, 2] |
 
 </div>
 
@@ -89,7 +115,7 @@
     <p><b>🇺🇸 English:</b> A centralized web platform designed to optimize and formalize enterprise technical support. I developed the entire operational workflow, eliminating incident fragmentation through a finite-state machine, implementing strict SLA management based on priority levels, and incorporating comprehensive auditing and analytics dashboards to support data-driven decision-making based on key metrics[cite: 2].</p>
     <p align="center">
       <a href="https://github.com/tu-usuario/nombre-repo-springboot" target="_blank">
-        <img src="https://img.shields.io/badge/📂_VER_REPOSITORIO-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
+        <img src="https://img.shields.io/badge/⚡_IR_AL_REPOSITORIO-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
       </a>
     </p>
   </ul>
@@ -103,7 +129,7 @@
     <p><b>🇺🇸 English:</b> We developed a website where users can report emergencies in their city or neighborhood. We utilized an AI agent to determine whether the reported issue is critical, minor, or potential spam. Additionally, we created a Telegram chatbot that relays all reports submitted via the website and allows users to view their own past reports[cite: 2].</p>
     <p align="center">
       <a href="https://github.com/tu-usuario/nombre-repo-n8n" target="_blank">
-        <img src="https://img.shields.io/badge/📂_VER_REPOSITORIO-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
+        <img src="https://img.shields.io/badge/⚡_IR_AL_REPOSITORIO-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
       </a>
     </p>
   </ul>
@@ -116,7 +142,7 @@
     <p><b>🇪🇸 Español:</b> Se trata de una base de datos relacional que administra usuarios y membresías, espacios y reservas (escritorios, oficinas, salas), pagos y facturación, control de acceso mediante RFID o QR, y define 5 roles de sistema. Incluye 100 consultas SQL, 20 triggers, 20 eventos programados y 20 procedimientos almacenados[cite: 1].</p>
     <p align="center">
       <a href="https://github.com/tu-usuario/nombre-repo-mysql" target="_blank">
-        <img src="https://img.shields.io/badge/📂_VER_REPOSITORIO-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
+        <img src="https://img.shields.io/badge/⚡_IR_AL_REPOSITORIO-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
       </a>
     </p>
   </ul>
@@ -129,7 +155,7 @@
     <p><b>🇺🇸 English:</b> I am developing a web-based activity platform that streamlines processes and improves work team coordination. CampusBuild is a solution designed to provide a customized application for managing projects across all stages of construction[cite: 2].</p>
     <p align="center">
       <a href="https://github.com/tu-usuario/nombre-repo-html-css-js" target="_blank">
-        <img src="https://img.shields.io/badge/📂_VER_REPOSITORIO-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
+        <img src="https://img.shields.io/badge/⚡_IR_AL_REPOSITORIO-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
       </a>
     </p>
   </ul>
@@ -147,7 +173,8 @@
 
 * **Idiomas / Languages:** 🇪🇸 Español (Nativo / Native)[cite: 1, 2] | 🇺🇸 Inglés (B1)[cite: 1, 2]
 
----
+<!-- LÍNEA DIVISORA NEÓN ANIMADA -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
   <!-- Banner inferior animado -->
