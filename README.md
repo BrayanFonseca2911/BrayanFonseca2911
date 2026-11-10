@@ -49,6 +49,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Pseint-005571?style=for-the-badge&logo=codeforces&logoColor=white" alt="Pseint"/>
 </p>
 
 ### 🗄️ Bases de Datos y Herramientas
@@ -77,37 +78,59 @@
 
 ---
 
-## 💼 Proyectos Destacados (Haz clic para ver detalles)
+## 💼 Proyectos Destacados (Haz clic para ver detalles y repositorio)
 
 <details>
-  <summary><b>🚀 Spring Boot Project (Java 25) – Soporte Técnico Empresarial (Campuslands)</b>[cite: 1, 2]</summary>
+  <summary><b>🚀 Proyecto Spring Boot - Java 25 (Campuslands)</b>[cite: 1, 2]</summary>
   <br>
   <ul>
-    <b>Descripción:</b> Plataforma web centralizada orientada a la optimización y formalización del soporte técnico empresarial[cite: 1, 2]. Desarrollo del flujo operativo completo erradicando la fragmentación de incidentes mediante una máquina de estados finitos, gestión estricta de SLA según prioridades, auditoría integral y tableros de analítica para la toma de decisiones basada en métricas clave[cite: 1, 2].
+    <p><b>🇪🇸 Español:</b> Plataforma web centralizada orientada a la optimización y formalización del soporte técnico empresarial. Desarrollé el flujo operativo completo erradicando la fragmentación de incidentes mediante una máquina de estados finitos, gestión estricta de SLA según prioridades, auditoría integral y tableros de analítica para la toma de decisiones basada en métricas clave[cite: 1].</p>
+    <p><b>🇺🇸 English:</b> A centralized web platform designed to optimize and formalize enterprise technical support. I developed the entire operational workflow, eliminating incident fragmentation through a finite-state machine, implementing strict SLA management based on priority levels, and incorporating comprehensive auditing and analytics dashboards to support data-driven decision-making based on key metrics[cite: 2].</p>
+    <p>
+      <a href="https://github.com/tu-usuario/nombre-repo-springboot" target="_blank">
+        <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=flat&logo=github&logoColor=white" alt="GitHub Repo"/>
+      </a>
+    </p>
   </ul>
 </details>
 
 <details>
-  <summary><b>🤖 Proyecto n8n – Sistema de Reporte de Emergencias con IA (Campuslands)</b>[cite: 1, 2]</summary>
+  <summary><b>🤖 Proyecto n8n (Campuslands)</b>[cite: 1, 2]</summary>
   <br>
   <ul>
-    <b>Descripción:</b> Desarrollo de una página web donde los usuarios pueden reportar emergencias en su ciudad o barrio[cite: 1, 2]. Se implementó un agente de IA para evaluar si el daño es crítico, bajo o posible spam, junto con un bot de Telegram que sincroniza y notifica los reportes realizados[cite: 1, 2].
+    <p><b>🇪🇸 Español:</b> Desarrollo de una página web donde el usuario puede hacer un reporte de una emergencia en la ciudad o barrio. Utilizamos un agente de IA que decide si el daño es critico, bajo, o puede ser un posible spam. También desarrollamos un chatbot por telegram donde envia todos los reportes realizados en la pagina web y el usuario tambien puede mirar los reportes que el ha hecho[cite: 1].</p>
+    <p><b>🇺🇸 English:</b> We developed a website where users can report emergencies in their city or neighborhood. We utilized an AI agent to determine whether the reported issue is critical, minor, or potential spam. Additionally, we created a Telegram chatbot that relays all reports submitted via the website and allows users to view their own past reports[cite: 2].</p>
+    <p>
+      <a href="https://github.com/tu-usuario/nombre-repo-n8n" target="_blank">
+        <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=flat&logo=github&logoColor=white" alt="GitHub Repo"/>
+      </a>
+    </p>
   </ul>
 </details>
 
 <details>
-  <summary><b>🗄️ Proyecto MySQL – Administración Integral de Espacios y Reservas (Campuslands)</b>[cite: 1]</summary>
+  <summary><b>🗄️ Proyecto de MySQL (Campuslands)</b>[cite: 1]</summary>
   <br>
   <ul>
-    <b>Descripción:</b> Base de datos relacional robusta que administra usuarios, membresías, espacios y reservas (escritorios, oficinas, salas), pagos, facturación y control de acceso mediante RFID/QR con 5 roles de sistema[cite: 1]. Incluye 100 consultas SQL, 20 triggers, 20 eventos programados y 20 procedimientos almacenados[cite: 1].
+    <p><b>🇪🇸 Español:</b> Se trata de una base de datos relacional que administra usuarios y membresías, espacios y reservas (escritorios, oficinas, salas), pagos y facturación, control de acceso mediante RFID o QR, y define 5 roles de sistema. Incluye 100 consultas SQL, 20 triggers, 20 eventos programados y 20 procedimientos almacenados[cite: 1].</p>
+    <p>
+      <a href="https://github.com/tu-usuario/nombre-repo-mysql" target="_blank">
+        <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=flat&logo=github&logoColor=white" alt="GitHub Repo"/>
+      </a>
+    </p>
   </ul>
 </details>
 
 <details>
-  <summary><b>🌐 Proyecto HTML, CSS, JS – CampusBuild (Campuslands)</b>[cite: 2]</summary>
+  <summary><b>🌐 Proyecto HTML, CSS, JS - CampusBuild (Campuslands)</b>[cite: 2]</summary>
   <br>
   <ul>
-    <b>Descripción:</b> Plataforma web interactiva orientada a optimizar procesos y mejorar la coordinación de equipos de trabajo para la gestión de proyectos en todas las etapas de construcción[cite: 2].
+    <p><b>🇺🇸 English:</b> I am developing a web-based activity platform that streamlines processes and improves work team coordination. CampusBuild is a solution designed to provide a customized application for managing projects across all stages of construction[cite: 2].</p>
+    <p>
+      <a href="https://github.com/tu-usuario/nombre-repo-html-css-js" target="_blank">
+        <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=flat&logo=github&logoColor=white" alt="GitHub Repo"/>
+      </a>
+    </p>
   </ul>
 </details>
 
