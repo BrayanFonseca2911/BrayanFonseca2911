@@ -7,13 +7,13 @@
 
   <!-- Badges de Redes Sociales / Contacto -->
   <p>
-    <a href="https://linkedin.com/in/tu-usuario" target="_blank">
+    <a href="https://www.linkedin.com/in/brayan-fonseca-2a63803aa/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://github.com/tu-usuario" target="_blank">
+    <a href="https://github.com/BrayanFonseca2911" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
     </a>
-    <a href="mailto:tu-correo@ejemplo.com">
+    <a href="12brayanstiven@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>
   </p>
