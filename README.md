@@ -7,15 +7,11 @@
 
   <!-- Contador de Visitas e Indicador de Estado -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=tu-usuario&label=Visitas%20al%20Perfil&color=0ea5e9&style=flat-square" alt="Visitas" />
     <img src="https://img.shields.io/badge/Estado-Disponible_para_proyectos-brightgreen?style=flat-square" alt="Estado" />
   </p>
 
   <!-- Badges de Redes Sociales, Contacto y Hoja de Vida -->
   <p>
-    <a href="https://github.com/tu-usuario/tu-repositorio/blob/main/Brayan_Fonseca_CV.pdf" target="_blank">
-      <img src="https://img.shields.io/badge/📄_Ver_CV_PDF-007ACC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV Badge"/>
-    </a>
     <a href="https://linkedin.com/in/tu-usuario" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
@@ -40,12 +36,12 @@
         <h3>📄 Descarga o Consulta mi CV Completo</h3>
         <p>Puedes revisar mi experiencia, formación académica y competencias profesionales directamente en formato PDF.</p>
         <p>
-          <a href="https://github.com/tu-usuario/tu-repositorio/raw/main/Brayan_Fonseca_CV.pdf" target="_blank">
-            <img src="https://img.shields.io/badge/📥_DESCARGAR_CV-007ACC?style=for-the-badge&logo=pdf&logoColor=white" alt="Descargar CV"/>
+          <a href="https://drive.google.com/file/d/1M7Je-CFbHlxPCeqC1KJL4hrl1WlrLhLG/view?usp=sharing" target="_blank">
+            <img src="https://img.shields.io/badge/📥_VER_HOJA_DE_VIDA-007ACC?style=for-the-badge&logo=pdf&logoColor=white" alt="Descargar CV"/>
           </a>
             
-          <a href="https://github.com/tu-usuario/tu-repositorio/blob/main/Brayan_Fonseca_CV.pdf" target="_blank">
-            <img src="https://img.shields.io/badge/👁️_VER_CV_ONLINE-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver CV"/>
+          <a href="https://brayan.auto-node.tech/" target="_blank">
+            <img src="https://img.shields.io/badge/👁️_VER_PORTAFOLIO_ONLINE-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver CV"/>
           </a>
         </p>
       </td>
@@ -99,7 +95,7 @@
 
 | 🇪🇸 Español | 🇺🇸 English |
 | :---: | :---: |
-| Adaptabilidad • Empatía • Disciplina<br>Paciencia • Puntualidad • Comunicación[cite: 1] | Adaptability • Patience • Empathy<br>Punctuality • Discipline • Communication[cite: 2] |
+| Adaptabilidad • Empatía • Disciplina<br>Paciencia • Puntualidad • Comunicación | Adaptability • Patience • Empathy<br>Punctuality • Discipline • Communication |
 
 </div>
 
@@ -108,13 +104,13 @@
 ## 💼 Proyectos Destacados (Portafolio Interactivo)
 
 <details>
-  <summary><b>🚀 Proyecto Spring Boot - Java 25 (Campuslands)</b>[cite: 1, 2]</summary>
+  <summary><b>🚀 Proyecto Spring Boot - Java 25 (Campuslands)</b></summary>
   <br>
   <ul>
     <p><b>🇪🇸 Español:</b> Plataforma web centralizada orientada a la optimización y formalización del soporte técnico empresarial. Desarrollé el flujo operativo completo erradicando la fragmentación de incidentes mediante una máquina de estados finitos, gestión estricta de SLA según prioridades, auditoría integral y tableros de analítica para la toma de decisiones basada en métricas clave[cite: 1].</p>
     <p><b>🇺🇸 English:</b> A centralized web platform designed to optimize and formalize enterprise technical support. I developed the entire operational workflow, eliminating incident fragmentation through a finite-state machine, implementing strict SLA management based on priority levels, and incorporating comprehensive auditing and analytics dashboards to support data-driven decision-making based on key metrics[cite: 2].</p>
     <p align="center">
-      <a href="https://github.com/tu-usuario/nombre-repo-springboot" target="_blank">
+      <a href="https://github.com/BrayanFonseca2911/Examen-Springboot" target="_blank">
         <img src="https://img.shields.io/badge/⚡_IR_AL_REPOSITORIO-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
       </a>
     </p>
@@ -128,7 +124,7 @@
     <p><b>🇪🇸 Español:</b> Desarrollo de una página web donde el usuario puede hacer un reporte de una emergencia en la ciudad o barrio. Utilizamos un agente de IA que decide si el daño es critico, bajo, o puede ser un posible spam. También desarrollamos un chatbot por telegram donde envia todos los reportes realizados en la pagina web y el usuario tambien puede mirar los reportes que el ha hecho[cite: 1].</p>
     <p><b>🇺🇸 English:</b> We developed a website where users can report emergencies in their city or neighborhood. We utilized an AI agent to determine whether the reported issue is critical, minor, or potential spam. Additionally, we created a Telegram chatbot that relays all reports submitted via the website and allows users to view their own past reports[cite: 2].</p>
     <p align="center">
-      <a href="https://github.com/tu-usuario/nombre-repo-n8n" target="_blank">
+      <a href="https://github.com/BrayanFonseca2911/Proyecto-n8n" target="_blank">
         <img src="https://img.shields.io/badge/⚡_IR_AL_REPOSITORIO-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
       </a>
     </p>
@@ -141,20 +137,7 @@
   <ul>
     <p><b>🇪🇸 Español:</b> Se trata de una base de datos relacional que administra usuarios y membresías, espacios y reservas (escritorios, oficinas, salas), pagos y facturación, control de acceso mediante RFID o QR, y define 5 roles de sistema. Incluye 100 consultas SQL, 20 triggers, 20 eventos programados y 20 procedimientos almacenados[cite: 1].</p>
     <p align="center">
-      <a href="https://github.com/tu-usuario/nombre-repo-mysql" target="_blank">
-        <img src="https://img.shields.io/badge/⚡_IR_AL_REPOSITORIO-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
-      </a>
-    </p>
-  </ul>
-</details>
-
-<details>
-  <summary><b>🌐 Proyecto HTML, CSS, JS - CampusBuild (Campuslands)</b>[cite: 2]</summary>
-  <br>
-  <ul>
-    <p><b>🇺🇸 English:</b> I am developing a web-based activity platform that streamlines processes and improves work team coordination. CampusBuild is a solution designed to provide a customized application for managing projects across all stages of construction[cite: 2].</p>
-    <p align="center">
-      <a href="https://github.com/tu-usuario/nombre-repo-html-css-js" target="_blank">
+      <a href="https://github.com/BrayanFonseca2911/Proyecto-mySQL-Coworking-" target="_blank">
         <img src="https://img.shields.io/badge/⚡_IR_AL_REPOSITORIO-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
       </a>
     </p>
