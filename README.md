@@ -19,7 +19,7 @@
     <a href="https://github.com/BrayanFonseca2911" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
     </a>
-    <a href="12brayanstivwn@gmail.com" target="_blank">
+    <a href="mailto:12brayanstiven@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>
   </p>
@@ -161,6 +161,13 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
+  <br>
+  <blockquote>
+    <p>💡 <i>"El código eficiente construye soluciones; la disciplina y la adaptabilidad transforman esas soluciones en impacto real."</i></p>
+    <p>💡 <i>"Efficient code builds solutions; discipline and adaptability transform those solutions into real impact."</i></p>
+  </blockquote>
+  <br>
+
   <!-- Banner inferior animado con ondas -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,30&height=110§ion=footer" width="100%"/>
 </div>
