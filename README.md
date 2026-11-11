@@ -22,7 +22,7 @@
     <a href="mailto:12brayanstiven@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>
-    <a href="https://wa.me/TU_NUMERO_CON_CODIGO_DE_PAIS?text=Hola%20Brayan,%20vi%20tu%20perfil%20de%20GitHub%20y%20me%20gustaría%20contactarte." target="_blank">
+    <a href="https://wa.me/+57 3156813345?text=Hola%20Brayan,%20vi%20tu%20perfil%20de%20GitHub%20y%20me%20gustaría%20contactarte." target="_blank">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
     </a>
   </p>
