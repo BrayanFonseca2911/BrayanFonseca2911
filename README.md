@@ -162,10 +162,9 @@
 
 <div align="center">
   <br>
-  <blockquote>
-    <p>💡 <i>"El código eficiente construye soluciones; la disciplina y la adaptabilidad transforman esas soluciones en impacto real."</i></p>
-    <p>💡 <i>"Efficient code builds solutions; discipline and adaptability transform those solutions into real impact."</i></p>
-  </blockquote>
+  <h3>✨ ¡Gracias por visitar mi perfil! / Thank you for visiting my profile! ✨</h3>
+  <p><i>"El código eficiente construye soluciones; la disciplina y la adaptabilidad transforman esas soluciones en impacto real."</i></p>
+  <p><i>"Efficient code builds solutions; discipline and adaptability transform those solutions into real impact."</i></p>
   <br>
 
   <!-- Banner inferior animado con ondas -->
